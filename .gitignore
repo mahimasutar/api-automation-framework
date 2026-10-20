@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+config/.env
+allure-results/
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+api-test-framework-guide.md

@@ -1,0 +1,9 @@
+pytest
+httpx
+pydantic
+pydantic-settings
+faker
+allure-pytest
+pytest-xdist
+pytest-rerunfailures
+python-dotenv
